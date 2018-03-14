@@ -1,5 +1,6 @@
 print('hello world');
 print('wiiiiiii');
+<<<<<<< HEAD
 123
 
 11111
@@ -8,3 +9,5 @@ print('wiiiiiii');
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+=======
+>>>>>>> branch_b
